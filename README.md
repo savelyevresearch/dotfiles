@@ -11,4 +11,4 @@
 
 ## Example of the resulting environment:
 
-<center>![arch-linux-rice](./assets/arch-linux-rice.png)</center>
+![arch-linux-rice](./assets/arch-linux-rice.png)
